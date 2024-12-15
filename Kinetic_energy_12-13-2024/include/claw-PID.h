@@ -1,0 +1,1 @@
+extern int claw_error;
